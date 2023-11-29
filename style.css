@@ -1,0 +1,49 @@
+.timer{
+    width: 80px;
+    height: 30px;
+    border: 3px solid;
+    border-radius: 12px;
+    background-color: #434343;
+    color: white;
+    cursor: pointer;
+    font-family: consolas, monospace;
+}
+#timeDis{
+    font-size: 75px;
+    color: rgb(28, 244, 28);
+    font-family: consolas, monospace;
+}
+#timeCon{
+    text-align: center;
+    border: 3px solid;
+    border-radius: 25px;
+    background-color: #1b1a1a;
+}
+.timer:hover{
+    background-color: #333333;
+}
+.audioStartTime{
+    background-color: #545454;
+    color: azure;
+    text-align: center;
+    justify-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    border-radius: 12px;
+    padding: 5px;
+}
+.timr{
+    background-color: #545454;
+    color: azure;
+    justify-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    border-radius: 8px;
+}
+.timr:hover{
+    background-color: #333333;
+}
