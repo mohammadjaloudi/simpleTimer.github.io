@@ -1,1 +1,1 @@
-# timereight.github.io
+# [Timer](https://mohammadjaloudi.github.io/simpleTimer.github.io/)
